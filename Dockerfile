@@ -1,3 +1,3 @@
-FROM unclecode/crawl4ai:all-arm64
+FROM unclecode/crawl4ai:all-amd64
 ENV CRAWL4AI_API_TOKEN=12345
 EXPOSE 11235
